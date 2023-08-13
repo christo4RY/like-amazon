@@ -1,0 +1,13 @@
+.hero-container {
+  background-color: #3fc4fd;
+  border-radius: 50%;
+  width: 480px;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  z-index: 10;
+}
+.hero-signup {
+  box-shadow: 10px 10px 15px rgba(148, 148, 148, 0.242),
+    0px -5px 15px rgba(148, 148, 148, 0.242);
+}
